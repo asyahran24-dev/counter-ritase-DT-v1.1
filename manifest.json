@@ -1,0 +1,16 @@
+{
+  "name":"Counter Verifikasi Ritase DT",
+  "short_name":"Counter Ritase",
+  "start_url":"./index.html",
+  "scope":"./",
+  "display":"standalone",
+  "display_override":["standalone","minimal-ui"],
+  "orientation":"portrait",
+  "background_color":"#f2f4f7",
+  "theme_color":"#1f2937",
+  "lang":"id-ID",
+  "description":"Counter dan verifikasi ritase DT — bekerja online maupun offline.",
+  "icons":[
+    {"src":"./icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}
+  ]
+}
